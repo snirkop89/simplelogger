@@ -22,3 +22,4 @@ import log "github.com/snirkop89/simplelogger"
 
 ### In plan
 - [ ] Tests...
+- [ ] Configuration from environemt
